@@ -49,4 +49,5 @@ Identifies customer loyalty categories, key for retention strategies.
 
 ## Final Report
 A detailed report summarizing methodology, analysis, and business recommendations can be found here:  
-![Final Report](reports/A4_final_report_ BOUKASKAS.xlsx)
+[Instacart Project Report](reports/A4_final_report_BOUKASKAS.xlsx)
+
